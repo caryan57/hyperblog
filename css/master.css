@@ -1,5 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: coral;
 }
 
 .page {
@@ -10,4 +11,16 @@ body {
 .post {
     border: 1px solid #333;
     padding: 5px 20px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.post .content {
+    text-align: left;
+    color: black;
+}
+
+.post .published {
+    font-size: 12px;
+    color: whitesmoke;
 }
