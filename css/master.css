@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: salmon;
+    background-color: white;
 }
 
 .page {
@@ -10,6 +10,17 @@ body {
 
 .page header {
     color: white;
+    padding: 40px;
+    background: #bb0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+.page header .logo {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 250px;
 }
 
 .page header h1 {
