@@ -63,6 +63,10 @@ body {
     color: white;
 }
 
+.content_body .img-article {
+    border: 1px solid white;
+}
+
 .post .published {
     font-size: 12px;
 }
